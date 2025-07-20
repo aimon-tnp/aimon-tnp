@@ -34,6 +34,5 @@ Currently exploring:
 📫 **Reach me at:**  
 
 [Email](mailto:tkrupistrai@gmail.com)
-
 [Instagram](https://www.instagram.com/aimonnnnnnnn/)
 
