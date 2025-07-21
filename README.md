@@ -21,16 +21,6 @@ Currently exploring:
 
 ---
 
-## 📊 Language Proficiency
-
-| Language     | Proficiency        |
-|--------------|--------------------|
-| Python       | ⭐⭐⭐⭐☆ (4/5)        |
-| C / C++      | ⭐⭐⭐⭐☆ (4/5)      |
-| Java         | ⭐⭐⭐☆ ☆ (3.5/5)      |
-
----
-
 📫 **Reach me at:**  
 
 [Email](mailto:tkrupistrai@gmail.com)
