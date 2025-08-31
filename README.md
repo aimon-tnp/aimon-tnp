@@ -18,3 +18,4 @@ Currently exploring:
 - 📊 Data analysis and visualization
 - 🧩 Algorithms and system design
 - 🌐 Web application development
+- 🎮 Game development
